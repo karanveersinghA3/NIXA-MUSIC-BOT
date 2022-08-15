@@ -3,7 +3,7 @@
     "logo": "https://te.legra.ph/file/423c9c7d7ce6109f8f078.jpg",
     "description": "ᴍᴜsɪᴄ ᴀʟʟᴏᴡ ʏᴏᴜ ᴛᴏ sᴛʀᴇᴀᴍ ᴍᴜsɪᴄ ᴛʜʀᴏᴜɢʜ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ғᴇᴀᴛᴜʀᴇs.",
     "keywords": ["Nixa", "NIXA-MUSIC-BOT", "music", "voice chat", "telegram", "Private Music"],
-    "repository": "https://github.com/dominator454/NIXA-MUSIC-BOT",
+    "repository": "https://github.com/karanveersinghA3/NIXA-MUSIC-BOT",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
