@@ -142,7 +142,7 @@ async def play(c: Client, m: Message):
                       InlineKeyboardButton("▷", callback_data="cbresume"),
                   ],[
                       InlineKeyboardButton(text="🥂 ɢʀᴏᴜᴘ", url=f"https://t.me/apnifamily_xd"),
-                      InlineKeyboardButton(text="🍷 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                      InlineKeyboardButton(text="🍷 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/aryan_life"),
                   ],[
                       InlineKeyboardButton("• ᴄʟᴏsᴇ •", callback_data="cls")],
                   ]
