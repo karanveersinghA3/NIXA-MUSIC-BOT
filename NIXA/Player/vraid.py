@@ -129,7 +129,7 @@ async def vraid(c: NIXA, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url="https://t.me/dominator_bot_support"),
+                            InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url="https://t.me/apnifamily_xd"),
                             InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/dominator_bot_official")
                         ],
                         [
@@ -204,7 +204,7 @@ async def vraid(c: NIXA, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url="https://t.me/dominator_bot_support"),
+                            InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url="https://t.me/apnifamily_xd"),
                             InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/dominator_bot_official")
                         ],
                         [
