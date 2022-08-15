@@ -33,7 +33,7 @@ async def alive(event):
                                   buttons=[
         [
         Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/dominator_bot_official"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/dominator_bot_support")
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/aryan_life")
         ],
         [
         Button.url("ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ", "https://youtube.com/channel/UCg4QaZEcldHdC5Y6kO1VDVg")
